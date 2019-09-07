@@ -1,0 +1,24 @@
+###### Configuration file for K9-Serial python script #####
+###### This file should be named Config.txt and be located in the folder C:\Python\K9-Serial\ ####
+###### Only use equal when you refer parameter equal value ####
+###### Please don't use paths with spaces!  ######
+
+## Path of PUTTY.exe
+file_puttypath = C:\Tools\putty.exe
+
+## Bautrate -1
+file_br1 = 9600
+file_br1_desc = (Classic)
+
+## Bautrate -2
+file_br2 = 14400
+file_br2_desc = (14400)
+
+## Bautrate -3
+file_br3 = 19200
+file_br3_desc = (19200)
+
+## Bautrate -4
+file_br4 = 38400
+file_br4_desc = (38400)
+
